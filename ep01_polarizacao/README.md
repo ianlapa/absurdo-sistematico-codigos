@@ -39,7 +39,7 @@ Troque a `seed` em `simular()` e o número de bolhas muda um pouco: o padrão (p
 | `04_codigo.png` | A regra inteira em poucas linhas |
 | `05_cenario_005.mp4`, `06_cenario_015.mp4`, `07_cenario_030.mp4` | Cada cenário sozinho |
 | `08_comparacao_final.png` | Os três resultados lado a lado |
-| `09_encerramento.mp4` | Frase final com o logo |
+| `09_encerramento.mp4` | "Ninguém aqui é irracional, só muda quem escuta quem", com o logo |
 | `10_explicacoes_comuns.mp4`, `11_testemunho.mp4`, `12_confianca_limitada.mp4` | Os textos do bloco sobre epistemologia social |
 
 ## Para ler mais

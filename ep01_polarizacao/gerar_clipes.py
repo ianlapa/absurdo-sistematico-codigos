@@ -156,7 +156,7 @@ def comparacao():
 # ---------- 09 encerramento ----------
 def encerramento():
     fig = nova_fig()
-    t = fig.text(0.5, 0.58, "Ninguém aqui é irracional,\nsó muda quem escuta quem.", ha="center", va="center",
+    t = fig.text(0.5, 0.58, "Ninguém aqui é irracional,\nsó muda quem escuta quem", ha="center", va="center",
                  color=FG, fontsize=58, fontweight="bold", linespacing=1.4)
     c = logo(fig, [0.40, 0.10, 0.20, 0.20])
     def f(i):
